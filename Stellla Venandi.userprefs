@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemySpawner.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MissionControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyControl.cs" Line="20" Column="3" />
+      <File FileName="Assets\Scripts\GameScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Boss1Control.cs" Line="97" Column="3" />
+      <File FileName="Assets\Scripts\EnemySpawner.cs" Line="41" Column="4" />
+      <File FileName="Assets\Scripts\Math.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ModularTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyGun.cs" Line="47" Column="6" />
+      <File FileName="Assets\Scripts\EnemyTrackingBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="83" Column="6" />
+      <File FileName="Assets\Scripts\EnemyBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="14" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
